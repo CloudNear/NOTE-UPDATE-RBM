@@ -1,0 +1,9 @@
+- menambahkan harga spesial di bagian produk
+
+- penjualan produk
+** kini bisa memilih harga normal atau spesial di setiap item penjualan
+
+NOTE :
+	didalam penjualan default menggunakan harga normal ( mengacu di bagian harga jual produk )
+	untuk menggunakan harga spesial dalam penjualan ( mengacu di bagian harga spesial produk )
+	anda bisa mengedit/mengubah harga spesial pada bagian produk  
